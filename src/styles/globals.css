@@ -1,0 +1,19 @@
+:root {
+  --fundo: #1c2027;
+  --texto-secundario: #382929;
+  --titulo: #000;
+  --azul: #0e1bd8;
+  --branco: #f8f8f8;
+  --verde: #0bca44;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+html {
+    background: linear-gradient(180deg, #f5f4f4, #131212);
+}

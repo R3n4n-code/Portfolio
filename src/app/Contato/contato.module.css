@@ -1,0 +1,134 @@
+.contato {
+  width: 100%;
+  max-width: 650px;
+  margin-left: 210px;
+  padding: 40px 20px;
+}
+
+.cabecalho {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 55px;
+}
+
+.introducao {
+  margin-bottom: 35px;
+}
+
+.introducao h1 {
+  max-width: 600px;
+  margin-bottom: 18px;
+  font-size: clamp(32px, 6vw, 48px);
+  line-height: 1.15;
+  letter-spacing: -1.5px;
+}
+
+.introducao p {
+  max-width: 480px;
+  color: var(--texto-secundario);
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.linksContato {
+  display: grid;
+  gap: 14px;
+}
+
+.cardContato {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  min-width: 0;
+  padding: 22px;
+  border: 1px solid transparent;
+  border-radius: 12px;
+  background: var(--fundo);
+  color: white;
+  text-decoration: none;
+
+  transition:
+    transform 0.25s ease,
+    border-color 0.25s ease,
+    background 0.25s ease;
+}
+
+.cardContato:hover {
+  transform: translateY(-3px);
+  border-color: var(--verde);
+  background: #222831;
+}
+
+.icone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 46px;
+  height: 46px;
+  border-radius: 10px;
+  background: #29342f;
+  color: var(--verde);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.informacoes {
+  flex: 1;
+  min-width: 0;
+}
+
+.informacoes h2 {
+  margin-bottom: 6px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.informacoes p {
+  color: wheat;
+  font-size: 14px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.seta {
+  flex-shrink: 0;
+  color: var(--branco);
+  font-size: 23px;
+  transition: color 0.25s ease;
+}
+
+.cardContato:hover .seta {
+  color: var(--verde);
+}
+
+
+
+.disponibilidade {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 32px;
+}
+
+.disponibilidade p {
+  color: var(--branco);
+  font-size: 13px;
+}
+
+.status {
+  width: 9px;
+  height: 9px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: var(--verde);
+  box-shadow: 0 0 10px #65d6ad55;
+}
+
+
+
+.cardContato:focus-visible {
+  outline: 2px solid var(--verde);
+  outline-offset: 4px;
+}

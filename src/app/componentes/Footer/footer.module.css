@@ -1,0 +1,29 @@
+.footer {
+    background: rgb(2, 2, 2)2a;
+    color: var(--branco);
+    padding: 3rem;
+    margin-left: 165px;
+    height: 7rem;
+    border-top-style: groove;
+    border-top-width: 2px;
+    border-color: var(--branco);
+    gap: 10px;
+
+} 
+
+.text {
+    color: var(--branco);
+    font-size: 16px;
+    margin: 0;
+}
+
+.ancora {
+    color: var(--branco);
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.ancora:hover {
+    color: #a0b6cf;
+    text-decoration: underline;
+}

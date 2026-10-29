@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💻 Portfólio — Renan
 
-## Getting Started
+Bem-vindo ao repositório do meu portfólio pessoal!
 
-First, run the development server:
+Este projeto reúne meus principais trabalhos em desenvolvimento web, apresentando minha evolução como desenvolvedor, minhas habilidades técnicas e os conhecimentos que venho aplicando em projetos práticos.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Acesse o portfólio
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Site:** [Acessar meu portfólio](COLOQUE_AQUI_O_LINK_DO_SEU_PORTFOLIO)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Projetos em destaque
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 1. Micro Frontends
 
-## Learn More
+**Tecnologias:** React, Webpack, Module Federation e HTML Webpack Plugin.
 
-To learn more about Next.js, take a look at the following resources:
+Projeto desenvolvido para explorar a arquitetura de Micro Frontends, estudando como diferentes aplicações podem ser desenvolvidas e executadas de forma independente e integradas em uma aplicação principal.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Principais aprendizados:**
+- Organização de aplicações em módulos independentes.
+- Integração entre aplicações React utilizando Webpack Module Federation.
+- Compartilhamento de funcionalidades entre diferentes aplicações.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🔗 [Repositório no GitHub](https://github.com/R3n4n-code/Micro-frontends)
 
-## Deploy on Vercel
+▲ [Acessar Vercel](https://micro-frontends-five.vercel.app)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 2. GuardLivro
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Tecnologias:** React, TypeScript, Supabase, Jest, ESLint e Prettier.
+
+Aplicação web para gerenciamento de uma coleção de livros, com funcionalidades para organizar informações, acompanhar o status de leitura e facilitar a consulta dos registros.
+
+**Principais aprendizados:**
+- Desenvolvimento de interfaces com React e TypeScript.
+- Integração com Supabase para persistência de dados.
+- Organização e tipagem de componentes.
+- Práticas de testes e padronização de código.
+
+🔗 [Repositório no GitHub](https://github.com/R3n4n-code/GuardLivro)
+
+▲ [Acessar Vercel](https://guard-livro.vercel.app/)
+
+### 3. Next Step
+
+**Tecnologias:** Next.js, React, TypeScript e ESLint.
+
+Aplicação de gerenciamento de tarefas voltada à organização de atividades simples do dia a dia.
+
+O projeto foi desenvolvido principalmente para praticar o hook `useReducer` e compreender como gerenciar estados mais estruturados em aplicações React.
+
+**Principais aprendizados:**
+- Gerenciamento de estado com `useReducer`.
+- Desenvolvimento com Next.js e TypeScript.
+- Organização da lógica de uma aplicação de tarefas.
+- Aplicação de boas práticas durante o desenvolvimento.
+
+🔗 [Repositório no GitHub](https://github.com/R3n4n-code/Next-Step)
+
+▲ [Acessar Vercel](https://next-step-one-jade.vercel.app/)
+
+## Tecnologias e ferramentas
+
+- **Front-end:** HTML, CSS, JavaScript, React e Next.js.
+- **Linguagem:** TypeScript.
+- **Arquitetura:** Webpack Module Federation e Micro Frontends.
+- **Back-end e dados:** Supabase.
+- **Testes e qualidade:** Jest, ESLint e Prettier.
+- **Versionamento:** Git e GitHub.
+
+## Objetivo profissional
+
+Estou em constante evolução na área de desenvolvimento web, buscando aprofundar meus conhecimentos, desenvolver projetos cada vez mais completos e aprimorar minhas habilidades na construção de aplicações.
+
+Tenho interesse em oportunidades que me permitam aprender, colaborar com equipes e contribuir para o desenvolvimento de soluções reais.
+
+## 📬 Contato
+
+- **GitHub:** [R3n4n-code](https://github.com/R3n4n-code)
+- **LinkedIn:** [Adicionar link do perfil](https://www.linkedin.com/in/renanmezzacapa/)
+- **E-mail:** [Adicionar e-mail profissional](mailto:renanrusefqw@gmail.com)
+
+---
+
+Desenvolvido por **Renan Mezzacapa** </>
