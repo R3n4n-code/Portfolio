@@ -1,4 +1,5 @@
 import Image from "next/image";
+import minhafoto from "@/styles/imagens/minha_foto.jpeg";
 import styles from "./page.module.css";
 import Link from "next/link";
 
@@ -8,7 +9,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.imageContainer}>
         <div className={styles.Ancora}>
-          <Image src="https://placehold.co/600x400/png" alt="Minha imagem" width={150} height={150} loading="eager" />
+          <Image src={minhafoto} alt="Minha imagem" width={150} height={150} loading="eager" />
           <div className={styles.Ancora2}>
             <a href="https://github.com/R3n4n-code/" target="_blank" rel="noopener noreferrer">
               GitHub

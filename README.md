@@ -6,7 +6,7 @@ Este projeto reúne meus principais trabalhos em desenvolvimento web, apresentan
 
 ## Acesse o portfólio
 
-**Site:** [Acessar meu portfólio](COLOQUE_AQUI_O_LINK_DO_SEU_PORTFOLIO)
+**Site:** [Acessar meu portfólio](https://portfolio-omega-peach-49.vercel.app/)
 
 ## Projetos em destaque
 
@@ -77,8 +77,8 @@ Tenho interesse em oportunidades que me permitam aprender, colaborar com equipes
 ## 📬 Contato
 
 - **GitHub:** [R3n4n-code](https://github.com/R3n4n-code)
-- **LinkedIn:** [Adicionar link do perfil](https://www.linkedin.com/in/renanmezzacapa/)
-- **E-mail:** [Adicionar e-mail profissional](mailto:renanrusefqw@gmail.com)
+- **LinkedIn:** [Perfil](https://www.linkedin.com/in/renanmezzacapa/)
+- **E-mail:** [Renanrusefqw@gmail.com](mailto:renanrusefqw@gmail.com)
 
 ---
 
